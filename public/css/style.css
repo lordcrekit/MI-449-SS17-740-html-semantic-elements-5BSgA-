@@ -1,0 +1,13 @@
+aside {
+  background: yellow;
+  padding: 15px;
+}
+
+article {
+  background-color: orange;
+}
+
+img {
+  max-height: 320px;
+  max-width: 180px;
+}
